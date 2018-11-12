@@ -1,0 +1,25 @@
+.main { background-image: url("https://colorlib.com/preview/theme/thecharity/images/hero.jpg"); position: relative; height: 700px; }
+.main .layout { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.5); }
+.main .row { color: white; padding-top: 50px; }
+.main .row .col-md-12 h1 { font-size: 5em; }
+.main .row .col-md-12 h3 { font-size: 3em; }
+.main .row .row2 .col2 .button1 { background-color: #fd7e14; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; }
+.main .row .row2 .col2 .button2 { background-color: transparent; border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; }
+
+.mainnav .container { margin-top: 60px; }
+.mainnav .container .row { border-top-left-radius: 10px; border-top-right-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; justify-content: space-between; }
+.mainnav .container .row .info { background-color: #f2ffff; transition: all .7s linear; text-align: center; }
+.mainnav .container .row .info span i { font-size: 5em; padding-top: 10px; color: white; }
+.mainnav .container .row .info:hover { background-color: #fd7e14; border-top-left-radius: 40px; border-top-right-radius: 40px; border-bottom-left-radius: 40px; border-bottom-right-radius: 40px; }
+.mainnav .container .row .info:hover span { text-align: center; }
+
+.nav2 { background-image: url("https://colorlib.com/preview/theme/thecharity/images/welcome-bg.jpg"); height: 600px; background-repeat: no-repeat; position: relative; }
+.nav2 .layout { width: 100%; height: 100%; position: absolute; background-color: rgba(0, 0, 0, 0.5); top: 0; left: 0; }
+.nav2 .row { padding-top: 50px; justify-content: space-between; }
+.nav2 .row .col-md-5 h2 { color: white; }
+.nav2 .row .col-md-5 hr { background-color: #fd7e14; width: 7%; height: 3px; margin-left: 20px; }
+.nav2 .row .col-md-5 p { color: white; }
+.nav2 .row .col-md-5 .button3 { background-color: #fd7e14; }
+.nav2 .row .ins { background-image: url("https://colorlib.com/preview/theme/thecharity/images/welcome.jpg"); }
+
+/*# sourceMappingURL=style.css.map */
